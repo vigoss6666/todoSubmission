@@ -7,7 +7,7 @@ import Todo from './Todo';
 
 
 
-
+console.log('main')
 console.log('hello world')
  function App(){
    return (
