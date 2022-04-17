@@ -6,7 +6,7 @@ import { AntDesign,Entypo } from '@expo/vector-icons';
 import Todo from './Todo'; 
 
 
-
+console.log('we have to add the title')
 console.log('main')
 console.log('hello world')
  function App(){
