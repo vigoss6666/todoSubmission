@@ -12,6 +12,7 @@ console.log('hello world')
 console.log('chunky pandey')
 console.log('huraira added some more changes')
 console.log('namer is the best gamer'); 
+console.log('let us merge it')
  function App(){
    return (
     <Todo />
